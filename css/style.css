@@ -1,0 +1,24 @@
+.Rimon{
+	display: none;
+}
+.home{display: inline;
+}
+.buri{
+	display: inline-block;
+}
+a{
+	display: block;
+}
+.color-box {
+	margin: 100px;
+	padding: 100px;
+  width: 200px;
+  height: 100px;
+  background-color: #4CAF50; 
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+.color{
+width:200px
+height:100px;
+background-color:#4CAF50
+box-shadow:0  4 px 100px rgba(0,);
